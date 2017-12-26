@@ -22,17 +22,11 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(classes = {FileSearchController.class})
 @WebAppConfiguration
 public class FileSearchControllerTest {
 
-	private MockMvc mockMvc;
 	@InjectMocks
 	FileSearchController fileSearchController;
-
-    @Autowired
-    private FileSearchService fleSearchFacade;
-
 
     @Test
     public void SearchWordsInFiles() throws Exception {
