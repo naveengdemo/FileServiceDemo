@@ -1,0 +1,41 @@
+[INFO ] 2017-12-26 08:13:10.040 [main] FileSearchDemoApplication - Starting FileSearchDemoApplication on RETDAYV-9440288 with PID 13596 (C:\Workspace\galileo\FileSearchDemo\target\classes started by ganesanx in C:\Workspace\galileo\FileSearchDemo)
+[INFO ] 2017-12-26 08:13:10.139 [main] FileSearchDemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-26 08:13:41.465 [main] FileSearchDemoApplication - Started FileSearchDemoApplication in 33.479 seconds (JVM running for 39.769)
+[INFO ] 2017-12-26 08:13:48.913 [http-nio-8080-exec-10] FileSearchController - Calling search controller to match words in files
+[INFO ] 2017-12-26 08:13:48.918 [http-nio-8080-exec-10] FileSearchService - List of words to match in files : [sendoracle]
+[INFO ] 2017-12-26 08:13:48.976 [http-nio-8080-exec-10] FileSearchService - Total files matched against words : 2
+[INFO ] 2017-12-26 08:13:48.980 [http-nio-8080-exec-10] FileSearchController - Total time taken for search files : 
+[INFO ] 2017-12-26 08:14:45.265 [http-nio-8080-exec-8] FileSearchController - Calling search controller to match words in files
+[INFO ] 2017-12-26 08:14:45.266 [http-nio-8080-exec-8] FileSearchService - List of words to match in files : [sendoracle]
+[INFO ] 2017-12-26 08:14:45.402 [http-nio-8080-exec-8] FileSearchService - Total files matched against words : 2
+[INFO ] 2017-12-26 08:14:45.403 [http-nio-8080-exec-8] FileSearchController - Total time taken for search files : 
+[INFO ] 2017-12-26 08:16:36.398 [main] FileSearchDemoApplication - Starting FileSearchDemoApplication on RETDAYV-9440288 with PID 16900 (C:\Workspace\galileo\FileSearchDemo\target\classes started by ganesanx in C:\Workspace\galileo\FileSearchDemo)
+[INFO ] 2017-12-26 08:16:36.409 [main] FileSearchDemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-26 08:17:09.412 [main] FileSearchDemoApplication - Started FileSearchDemoApplication in 34.464 seconds (JVM running for 36.427)
+[INFO ] 2017-12-26 08:17:12.051 [http-nio-8080-exec-10] FileSearchController - Calling search controller to match words in files : Start tile1514294232050
+[INFO ] 2017-12-26 08:17:12.101 [http-nio-8080-exec-10] FileSearchService - List of words to match in files : [sendoracle]
+[INFO ] 2017-12-26 08:17:12.155 [http-nio-8080-exec-10] FileSearchService - Total files matched against words : 2
+[INFO ] 2017-12-26 08:17:12.158 [http-nio-8080-exec-10] FileSearchController - 1514294232155Total time taken for search files : 
+[INFO ] 2017-12-26 08:18:11.276 [http-nio-8080-exec-8] FileSearchController - Calling search controller to match words in files : Start tile1514294291276
+[INFO ] 2017-12-26 08:18:11.277 [http-nio-8080-exec-8] FileSearchService - List of words to match in files : [sendoracle]
+[INFO ] 2017-12-26 08:18:11.388 [http-nio-8080-exec-8] FileSearchService - Total files matched against words : 2
+[INFO ] 2017-12-26 08:18:11.389 [http-nio-8080-exec-8] FileSearchController - 1514294291389Total time taken for search files : 
+[INFO ] 2017-12-26 08:18:58.102 [main] FileSearchDemoApplication - Starting FileSearchDemoApplication on RETDAYV-9440288 with PID 16948 (C:\Workspace\galileo\FileSearchDemo\target\classes started by ganesanx in C:\Workspace\galileo\FileSearchDemo)
+[INFO ] 2017-12-26 08:18:58.110 [main] FileSearchDemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-26 08:19:35.131 [main] FileSearchDemoApplication - Started FileSearchDemoApplication in 38.979 seconds (JVM running for 41.269)
+[INFO ] 2017-12-26 08:19:38.844 [http-nio-8080-exec-10] FileSearchController - Calling search controller to match words in files : Start tile1514294378843
+[INFO ] 2017-12-26 08:19:39.178 [http-nio-8080-exec-10] FileSearchService - List of words to match in files : [sendoracle]
+[INFO ] 2017-12-26 08:19:39.233 [http-nio-8080-exec-10] FileSearchService - Total files matched against words : 2
+[INFO ] 2017-12-26 08:19:39.242 [http-nio-8080-exec-10] FileSearchController - Total time taken for search files : 399
+[INFO ] 2017-12-26 08:19:58.913 [http-nio-8080-exec-8] FileSearchController - Calling search controller to match words in files : Start tile1514294398913
+[INFO ] 2017-12-26 08:19:58.914 [http-nio-8080-exec-8] FileSearchService - List of words to match in files : [sendoracle]
+[INFO ] 2017-12-26 08:19:59.063 [http-nio-8080-exec-8] FileSearchService - Total files matched against words : 2
+[INFO ] 2017-12-26 08:19:59.063 [http-nio-8080-exec-8] FileSearchController - Total time taken for search files : 150
+[INFO ] 2017-12-26 08:20:08.672 [http-nio-8080-exec-6] FileSearchController - Calling search controller to match words in files : Start tile1514294408672
+[INFO ] 2017-12-26 08:20:08.674 [http-nio-8080-exec-6] FileSearchService - List of words to match in files : [sendoracle]
+[INFO ] 2017-12-26 08:20:09.214 [http-nio-8080-exec-6] FileSearchService - Total files matched against words : 2
+[INFO ] 2017-12-26 08:20:09.214 [http-nio-8080-exec-6] FileSearchController - Total time taken for search files : 542
+[INFO ] 2017-12-26 08:20:18.474 [http-nio-8080-exec-4] FileSearchController - Calling search controller to match words in files : Start tile1514294418474
+[INFO ] 2017-12-26 08:20:18.475 [http-nio-8080-exec-4] FileSearchService - List of words to match in files : [sendoracle]
+[INFO ] 2017-12-26 08:20:18.735 [http-nio-8080-exec-4] FileSearchService - Total files matched against words : 2
+[INFO ] 2017-12-26 08:20:18.735 [http-nio-8080-exec-4] FileSearchController - Total time taken for search files : 261
